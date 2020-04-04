@@ -1,0 +1,29 @@
+{
+  "workbench.startupEditor": "newUntitledFile",  
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  
+  "terminal.integrated.fontSize": 14,  
+
+  "files.autoSave": "off",
+  "window.zoomLevel": 0,
+
+  "editor.tabSize": 2,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  
+  "explorer.compactFolders": false,  
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignoreRecommendations": true,
+
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+
+  "editor.rulers": [80, 120],
+  "terminal.integrated.shell.osx": "/bin/zsh"
+}
